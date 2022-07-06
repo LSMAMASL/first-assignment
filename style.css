@@ -1,0 +1,192 @@
+.fi {
+    position: relative;
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+.fi img {
+    width: 100%;
+    margin: 0px;
+}
+
+.second {
+    position: absolute;
+    top: 414px;
+    right: 765px;
+    color: rgb(252, 249, 247);
+}
+
+.third {
+    position: absolute;
+    top: 450px;
+    right: 850px;
+    color: rgb(252, 249, 247);
+}
+
+.four {
+    position: absolute;
+    top: 490px;
+    right: 710px;
+    left: 30px;
+    color: rgb(252, 249, 247);
+}
+
+.five {
+    position: absolute;
+    top: 550px;
+    right: 880px;
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(red, orange);
+}
+
+#second {
+    width: 100%;
+
+
+}
+
+.try {
+    text-align: center;
+    width: 80%;
+    left: 50%;
+}
+
+#first {
+    position: absolute;
+    right: 10%;
+    left: 25%;
+    display: flex;
+    width: 50%;
+}
+
+.seven {
+    width: 15%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 5px 5px 5px 15px;
+    border-style: solid;
+    color: rgb(82, 80, 80);
+    box-shadow: 5px 5px 25px gray;
+    background-color: white;
+}
+
+.ele {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    margin-top: 15%;
+    color: rgb(51, 49, 49);
+    border-bottom-style: solid;
+}
+
+.twel {
+    text-align: center;
+    background-image: linear-gradient(red orange);
+    margin-bottom: 40%;
+}
+
+.thirtheen {
+    margin-top: 7%;
+    text-align: center;
+
+}
+
+.color {
+    color: rgb(141, 126, 107);
+    font-size: 40px;
+}
+
+#nine {
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.sixteen {
+    background-image: url(icon8.svg);
+    background-size: 100px 300px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color: rgb(188, 248, 248);
+    padding-top: 10%;
+    width: 20%;
+    border-style: solid;
+    margin-right: 5%;
+
+}
+
+.seventeen {
+    background-image: url(icon11.svg);
+    background-size: 100px 300px;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-color: rgb(188, 248, 248);
+    padding-top: 10%;
+    width: 20%;
+    border-style: solid;
+    margin-right: 5%;
+
+}
+
+.eighteen {
+    background-image: url(icon8.svg);
+    background-size: 100px 300px;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-color: rgb(188, 248, 248);
+    padding-top: 10%;
+    width: 20%;
+    border-style: solid;
+    margin-right: 5%;
+
+}
+
+.middle {
+    display: flex;
+    width: 60%;
+    margin: 5% 20% 5% 10%;
+}
+
+.twenty {
+    width: 50%;
+    margin-top: 43px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.middle img {
+    width: 100%;
+}
+
+.tone {
+    text-align: center;
+    font-size: 40px;
+}
+
+.ttwo {
+    text-align: center;
+}
+
+.tthree {
+    text-align: center;
+    border: 2px white;
+    border: 50px 20px;
+    font-size: 50px;
+    background-color: rgb(231, 27, 27);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+
+}
+
+.tten {
+    padding: 25px;
+    color: red;
+    text-align: center;
+    background-color: black;
+    background-size: auto;
+}
